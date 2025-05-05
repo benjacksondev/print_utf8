@@ -1,6 +1,8 @@
-# utf8 print
+# print UTF-8
 
 > The script is not useful for anything but understanding UTF-8.
+
+*todo: Implement remaining character set*
 
 Accepts a file of UTF-8 chars, reads it in to a byte array maps it back to UTF-8 chars, and writes it to stdout.
 
